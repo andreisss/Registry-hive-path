@@ -19,3 +19,6 @@ the home directory of the currently logged-in user. You can obtain/ print the va
 
 
 Path: C:\Windows\System32\config
+
+![image description](https://i.ibb.co/hsRsnYC/registry-hive.png)
+
