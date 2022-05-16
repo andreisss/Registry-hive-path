@@ -16,3 +16,6 @@ A copy of this hive is also present under HKLM\SOFTWARE\ Microsoft\Windows NT\Cu
 of the currently logged-in user. This hive is also stored on the disk at
 the location %UserProfile%\ntuser.dat, where the UserProfile is
 the home directory of the currently logged-in user. You can obtain/ print the value of UserProfile by typing the command listed in
+
+
+Path: C:\Windows\System32\config
